@@ -1,0 +1,12 @@
+select {
+  color: white;
+  background-color: gray;
+}
+
+/* Specific styles for option elements */
+option {
+  /* This might not work consistently across all browsers */
+  background-color: gray;
+  color: white;
+  /* Add more styles as needed */
+}
